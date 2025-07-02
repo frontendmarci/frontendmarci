@@ -3,7 +3,7 @@
 🎓 Frissen végzett szoftverfejlesztő és tesztelő a Jedlik Ányos iskolából  
 💻 Pályakezdőként keresem a lehetőségeket, hogy gyakorlati tapasztalatot szerezzek  
 🌱 Leginkább **Angular** (frontend) és **Laravel** (backend) technológiák érdekelnek  
-📫 Elérsz itt: [banaiadrianmarton@gmail.com]
+📫 Elérsz itt: (banaiadrianmarton@gmail.com)
 
 ---
 
